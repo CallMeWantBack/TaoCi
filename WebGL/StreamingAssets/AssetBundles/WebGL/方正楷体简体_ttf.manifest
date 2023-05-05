@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1067220312
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b96b042e1d6f3a2feaf079abe4e6991
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cea17de082da1dfd38b5ed053fc34ca1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Art/Fonts/\u65B9\u6B63\u6977\u4F53\u7B80\u4F53.TTF"
+Dependencies: []

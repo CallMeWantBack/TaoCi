@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Btn_Texture
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c2f107cf8871ced4fb0e7b3640cf29d7, type: 3}
+    - {fileID: 2800000, guid: dbbd3a624ceb7484cae765d0729e320c, type: 3}
+    - {fileID: 2800000, guid: 6a19897721c06394c94f24b403591747, type: 3}
+    - {fileID: 2800000, guid: b99bbf19bf5e12240a288aae623a4e24, type: 3}
+    - {fileID: 2800000, guid: e8fa0937e53a0e045b67c6b881a64387, type: 3}
+    - {fileID: 2800000, guid: 486ef68010ce89e4f8a590b92fed77b6, type: 3}
+    - {fileID: 2800000, guid: a22f04352291526488ce9e6f7e63d1ec, type: 3}
+    - {fileID: 2800000, guid: 51c3ef6bf02c8864d97c1d226d7875f2, type: 3}
+    - {fileID: 2800000, guid: e90413877f6ddde4baedf74ec04e1434, type: 3}
+    - {fileID: 2800000, guid: 2b1b2db5d807109459c68f597bbcee60, type: 3}
+    - {fileID: 2800000, guid: 74d7d1f23344eab4bb6772109455aa15, type: 3}
+    - {fileID: 2800000, guid: 02c84202276b95c469a483b626d7a20c, type: 3}
+    - {fileID: 2800000, guid: 7e6891f28a0f6584e8e33fba55ea3938, type: 3}
+    - {fileID: 2800000, guid: 02ebd38841ed3124db56521ec44a4862, type: 3}
+    - {fileID: 2800000, guid: b6c634f0fb83bde45ab372c2dcf9f19b, type: 3}
+    - {fileID: 2800000, guid: feb30ae62f2c8864b90848e1a9555284, type: 3}
+    - {fileID: 2800000, guid: 1382f80a8218903479865d83d2bf0a8d, type: 3}
+    - {fileID: 2800000, guid: 65a446313140bc442a9db4eb8a410678, type: 3}
+    - {fileID: 2800000, guid: c5af101b72478374a833dfb80e4b7bac, type: 3}
+    - {fileID: 2800000, guid: 6ba3672c392891b4bbb44fc984ad1a7c, type: 3}
+    - {fileID: 2800000, guid: c80b676ed0ddaf94db817ef681305afb, type: 3}
+    - {fileID: 2800000, guid: 8344603bec339f34f86422be52bf7376, type: 3}
+    - {fileID: 2800000, guid: 2a9382e1333efce4db3c7b7d78d28b4f, type: 3}
+    - {fileID: 2800000, guid: 8a84cdb12a1fb8a4db5d4db27e3c606a, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 486ef68010ce89e4f8a590b92fed77b6, type: 3}
+  - {fileID: 21300000, guid: b6c634f0fb83bde45ab372c2dcf9f19b, type: 3}
+  - {fileID: 21300000, guid: 65a446313140bc442a9db4eb8a410678, type: 3}
+  - {fileID: 21300000, guid: 8a84cdb12a1fb8a4db5d4db27e3c606a, type: 3}
+  - {fileID: 21300000, guid: 2a9382e1333efce4db3c7b7d78d28b4f, type: 3}
+  - {fileID: 21300000, guid: 02c84202276b95c469a483b626d7a20c, type: 3}
+  - {fileID: 21300000, guid: dbbd3a624ceb7484cae765d0729e320c, type: 3}
+  - {fileID: 21300000, guid: 7e6891f28a0f6584e8e33fba55ea3938, type: 3}
+  - {fileID: 21300000, guid: 74d7d1f23344eab4bb6772109455aa15, type: 3}
+  - {fileID: 21300000, guid: a22f04352291526488ce9e6f7e63d1ec, type: 3}
+  - {fileID: 21300000, guid: 2b1b2db5d807109459c68f597bbcee60, type: 3}
+  - {fileID: 21300000, guid: feb30ae62f2c8864b90848e1a9555284, type: 3}
+  - {fileID: 21300000, guid: e8fa0937e53a0e045b67c6b881a64387, type: 3}
+  - {fileID: 21300000, guid: 6a19897721c06394c94f24b403591747, type: 3}
+  - {fileID: 21300000, guid: e90413877f6ddde4baedf74ec04e1434, type: 3}
+  - {fileID: 21300000, guid: 02ebd38841ed3124db56521ec44a4862, type: 3}
+  - {fileID: 21300000, guid: b99bbf19bf5e12240a288aae623a4e24, type: 3}
+  - {fileID: 21300000, guid: 1382f80a8218903479865d83d2bf0a8d, type: 3}
+  - {fileID: 21300000, guid: c5af101b72478374a833dfb80e4b7bac, type: 3}
+  - {fileID: 21300000, guid: 8344603bec339f34f86422be52bf7376, type: 3}
+  - {fileID: 21300000, guid: 51c3ef6bf02c8864d97c1d226d7875f2, type: 3}
+  - {fileID: 21300000, guid: 6ba3672c392891b4bbb44fc984ad1a7c, type: 3}
+  - {fileID: 21300000, guid: c80b676ed0ddaf94db817ef681305afb, type: 3}
+  - {fileID: 21300000, guid: c2f107cf8871ced4fb0e7b3640cf29d7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u5173\u95ED_hover"
+  - "\u5B9E\u9A8C\u5E2E\u52A9"
+  - "\u8FD4\u56DE\u4E3B\u9875"
+  - "\u9EC4\u8272"
+  - "\u901A\u7528\u5C0F\u6309\u94AE_hover"
+  - "\u5B9E\u9A8C\u6B65\u9AA4\u5F39\u7A97_\u5C55\u5F00_hover"
+  - TabBar_hover
+  - "\u5B9E\u9A8C\u6B65\u9AA4\u5F39\u7A97_\u6536\u8D77"
+  - "\u5B9E\u9A8C\u6B65\u9AA4\u5F39\u7A97_\u5C55\u5F00"
+  - "\u56FA\u5316\u65F6\u95F4\u6309\u94AE"
+  - "\u5927\u6309\u94AE_hover"
+  - "\u5B9E\u9A8C\u5E2E\u52A9_hover"
+  - "\u5173\u95ED"
+  - "\u5168\u5C4F"
+  - "\u5927\u6309\u94AE"
+  - "\u5B9E\u9A8C\u6B65\u9AA4\u5F39\u7A97_\u6536\u8D77_hover"
+  - "\u5168\u5C4F_hover"
+  - "\u6B65\u9AA4_selected"
+  - "\u8FD4\u56DE\u4E3B\u9875_hover"
+  - "\u901A\u7528\u5C0F\u6309\u94AE"
+  - "\u56FA\u5316\u65F6\u95F4\u6309\u94AE_selected"
+  - "\u9000\u51FA\u5168\u5C4F"
+  - "\u9000\u51FA\u5168\u5C4F_hover"
+  - TabBar
+  m_Tag: Btn_Texture
+  m_IsVariant: 0

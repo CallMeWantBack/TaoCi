@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2697527081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 916c1755914beb4db805105305eff2da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 26dfdea2df7b2c4c84ea3d62c0fb92a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9f4fbb4a6e72b7b4b827b6ba43163d0f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AB/TanLiDai.prefab
+Dependencies: []

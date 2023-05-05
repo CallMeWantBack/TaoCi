@@ -1,0 +1,196 @@
+ManifestFileVersion: 0
+CRC: 3760980960
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: exprimainpanel_prefab
+      Dependencies: {}
+    Info_1:
+      Name: experimentalreportpanel_prefab
+      Dependencies: {}
+    Info_2:
+      Name: helppagepanel_prefab
+      Dependencies: {}
+    Info_3:
+      Name: knowassessmentpanel_prefab
+      Dependencies: {}
+    Info_4:
+      Name: knowchangepanel_prefab
+      Dependencies: {}
+    Info_5:
+      Name: knowledgelearpanel_prefab
+      Dependencies: {}
+    Info_6:
+      Name: mainmenupanel_prefab
+      Dependencies: {}
+    Info_7:
+      Name: operationexperipanel_prefab
+      Dependencies: {}
+    Info_8:
+      Name: starttestpanel_prefab
+      Dependencies: {}
+    Info_9:
+      Name: tittlepanel_prefab
+      Dependencies: {}
+    Info_10:
+      Name: button_ps_prefab
+      Dependencies: {}
+    Info_11:
+      Name: zhujiangkou_neimo_prefab
+      Dependencies: {}
+    Info_12:
+      Name: water_prefab
+      Dependencies: {}
+    Info_13:
+      Name: mozhong_prefab
+      Dependencies: {}
+    Info_14:
+      Name: niba_prefab
+      Dependencies: {}
+    Info_15:
+      Name: nijiang_01_prefab
+      Dependencies: {}
+    Info_16:
+      Name: nijiang_02_prefab
+      Dependencies: {}
+    Info_17:
+      Name: tianni_niba_kuai_xiuzheng_prefab
+      Dependencies: {}
+    Info_18:
+      Name: tuomoji_prefab
+      Dependencies: {}
+    Info_19:
+      Name: weiban_jiazi001_prefab
+      Dependencies: {}
+    Info_20:
+      Name: weiban_jiazi003_prefab
+      Dependencies: {}
+    Info_21:
+      Name: weiban_shengzi_001_prefab
+      Dependencies: {}
+    Info_22:
+      Name: weiban_weiban_prefab
+      Dependencies: {}
+    Info_23:
+      Name: zhujiangchengxing_nijiang 1_prefab
+      Dependencies: {}
+    Info_24:
+      Name: zhujiangchengxing_nijiang_prefab
+      Dependencies: {}
+    Info_25:
+      Name: zhujiangchengxing_peiti_prefab
+      Dependencies: {}
+    Info_26:
+      Name: zhujiangkou_jinshudao_prefab
+      Dependencies: {}
+    Info_27:
+      Name: guadao_prefab
+      Dependencies: {}
+    Info_28:
+      Name: beizhi_shigaofen_prefab
+      Dependencies: {}
+    Info_29:
+      Name: beizhi_jiaobanbang_prefab
+      Dependencies: {}
+    Info_30:
+      Name: ruanbang_prefab
+      Dependencies: {}
+    Info_31:
+      Name: tuzi_prefab
+      Dependencies: {}
+    Info_32:
+      Name: step_yimo_zhujiang_kouzi_prefab
+      Dependencies: {}
+    Info_33:
+      Name: zhujiang_kouzi_prefab
+      Dependencies: {}
+    Info_34:
+      Name: pen_prefab
+      Dependencies: {}
+    Info_35:
+      Name: nibaduo_prefab
+      Dependencies: {}
+    Info_36:
+      Name: yakelibang_prefab
+      Dependencies: {}
+    Info_37:
+      Name: gudingjingshu_prefab
+      Dependencies: {}
+    Info_38:
+      Name: muchui_prefab
+      Dependencies: {}
+    Info_39:
+      Name: tanlidai_prefab
+      Dependencies: {}
+    Info_40:
+      Name: chengxing_hu_prefab
+      Dependencies: {}
+    Info_41:
+      Name: jinshudao_prefab
+      Dependencies: {}
+    Info_42:
+      Name: beizhishigao_prefab
+      Dependencies: {}
+    Info_43:
+      Name: mudao_prefab
+      Dependencies: {}
+    Info_44:
+      Name: mudaoone_prefab
+      Dependencies: {}
+    Info_45:
+      Name: c_png
+      Dependencies: {}
+    Info_46:
+      Name: imageprefaba_prefab
+      Dependencies:
+        Dependency_0: a_png
+    Info_47:
+      Name: uipanelwithimageprefab_prefab
+      Dependencies: {}
+    Info_48:
+      Name: textureexample1_png
+      Dependencies: {}
+    Info_49:
+      Name: uimultipanel_prefab
+      Dependencies: {}
+    Info_50:
+      Name: assetobj_prefab
+      Dependencies: {}
+    Info_51:
+      Name: spriteatlas_spriteatlas
+      Dependencies: {}
+    Info_52:
+      Name: assetobj 3_prefab
+      Dependencies: {}
+    Info_53:
+      Name: b_png
+      Dependencies: {}
+    Info_54:
+      Name: imageprefabc_prefab
+      Dependencies:
+        Dependency_0: c_png
+    Info_55:
+      Name: assetobj 2_prefab
+      Dependencies: {}
+    Info_56:
+      Name: uistackpanel2_prefab
+      Dependencies: {}
+    Info_57:
+      Name: sceneres_unity
+      Dependencies: {}
+    Info_58:
+      Name: a_png
+      Dependencies: {}
+    Info_59:
+      Name: imageprefabb_prefab
+      Dependencies:
+        Dependency_0: b_png
+    Info_60:
+      Name: uibasicpanel_prefab
+      Dependencies: {}
+    Info_61:
+      Name: assetobj 1_prefab
+      Dependencies: {}
+    Info_62:
+      Name: uistackpanel1_prefab
+      Dependencies: {}

@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 3402818704
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c6d9a10450eab2f44807f36c3b46e0a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9697fdc260634d2f915363a539c1bd0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c354bf20572e7e64d87d0be3415325a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9911bd02dc0ecd4789d072398056a7d, type: 3}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABPerfabs/Step_ZhuJiangChengXing_PeiTi.prefab
+- Assets/ABPerfabs/Step_BeiZhi_ShaoBei.prefab
+- Assets/ABPerfabs/Step_WeiBan_JiaZi003.prefab
+- Assets/ABPerfabs/Step_PenSa_MoZhong.prefab
+- Assets/ABPerfabs/Step_ZhuJiangChengXing_NiJiang.prefab
+- Assets/ABPerfabs/Step_ZhuJiangKou_NeiMo.prefab
+- Assets/ABPerfabs/Step_ZhuJiangKou_JinShuDao.prefab
+- Assets/ABPerfabs/Step_DaoRu_NiJiang_01.prefab
+- Assets/ABPerfabs/Step_TianNi_NiBa_Kuai_003.prefab
+- Assets/ABPerfabs/Step_WeiBan_ShengZi_001.prefab
+- Assets/ABPerfabs/Step_PenSa_ShiGaoDiBan.prefab
+- Assets/ABPerfabs/Step_PenSa_TuoMoJi.prefab
+- Assets/ABPerfabs/Step_TianNi_MuDao_ZH-3.prefab
+- Assets/ABPerfabs/ZhuoZi.prefab
+- Assets/ABPerfabs/Step_TianNi_NiBa_Kuai_001.prefab
+- Assets/ABPerfabs/Step_WeiBan_JiaZi001.prefab
+- Assets/ABPerfabs/Step_ZhuJiangChengXing_NiJiang 1.prefab
+- Assets/ABPerfabs/Step_ZhuJiangChengXing_Hu.prefab
+- Assets/ABPerfabs/Step_BeiZhi_JiaoBanBang.prefab
+- Assets/ABPerfabs/Step_DaoRu_NiJiang_02.prefab
+- Assets/ABPerfabs/Step_XiuZheng_LvPian.prefab
+- Assets/ABPerfabs/Step_BeiZhi_ShiGaoFen.prefab
+- Assets/ABPerfabs/Step_TianNi_NiBa_Kuai_XiuZheng.prefab
+- Assets/ABPerfabs/Step_BeiZhi_ShaoBei_SuLiao.prefab
+- Assets/ABPerfabs/Step_TianNi_NiBa_Kuai_002.prefab
+- Assets/ABPerfabs/Step_TianNi_NiBa_Kuai_004.prefab
+- Assets/ABPerfabs/Step_WeiBan_WeiBan.prefab
+Dependencies: []

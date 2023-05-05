@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 174198116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4490ef76db66ed4d5018234a9847bfa9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27e5294c843bdca701ef1b2aa39c71eb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AB/BeiZhi_JiaoBanBang.prefab
+Dependencies: []
